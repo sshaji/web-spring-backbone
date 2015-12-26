@@ -1,4 +1,4 @@
-## Spring Web MVCApp - SpringWebMVCApp-1
+## web-spring-backbone - WebSpringBackbone
 ### Java Spring web application sample with :
 * REST API
 * Backbone JS based GUI
